@@ -1,3 +1,5 @@
+# 炫龙KP2 神舟ZX7-CP5S2 K690E 黑苹果EFI CPU I5-8400 蓝天 CLEVO N95TP6模具
+
 ## 相关申明
 
 - 博客地址: https://www.wutong.tk/
@@ -103,4 +105,4 @@ sudo pmset -a proximitywake 0
 - 屏幕为1080P分辨率，使用默认`config.plist`
 - 屏幕为4K分辨率，请将`config_4k.plist`重命名为`config.plist`
 - `config.plist` 中 `Platformlnfo` - `Generic` 自行更换五码
-# Clevo-N95x-Hackintosh
+
