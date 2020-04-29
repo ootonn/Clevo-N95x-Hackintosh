@@ -7,7 +7,7 @@
 - 本EFI为OC引导支持 `炫龙KP2` `神舟ZX7-CP5S2` `神舟K690E`  等采用  `蓝天 CLEVO N95TP6` 模具的机型
 - 希望本EFI能够给大家带来便利，问题讨论点击加入[**<u>QQ交流群：1046199095</u>**](https://jq.qq.com/?_wv=1027&k=5hGmbfx)
 
-### 博主配置
+## 博主配置
 
 | 规格     | 详细信息                                     |
 | -------- | -------------------------------------------- |
@@ -50,3 +50,4 @@
 - 屏幕为4K分辨率，请将`config_4k.plist`重命名为`config.plist`
 - `config.plist` 中 `Platformlnfo` - `Generic` 自行更换五码
 
+[<u>**更多信息**</u>](https://www.wutong.tk/index.php/hackintosh/2.html)
