@@ -47,8 +47,6 @@
 ## 使用方法
 
 - 进行 `BIOS` 设置 [相关教程](https://www.wutong.tk/index.php/hackintosh/3.html)
-- 屏幕为1080P分辨率，使用默认`config.plist`
-- 屏幕为4K分辨率，请将`config_4k.plist`重命名为`config.plist`
 - `config.plist` 中 `Platformlnfo` - `Generic` 自行更换五码
 
 [<u>**更多信息**</u>](https://www.wutong.tk/index.php/hackintosh/2.html)
