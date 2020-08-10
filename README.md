@@ -1,10 +1,10 @@
-# 炫龙KP2 神舟ZX7-CP5S2 K690E 黑苹果EFI CPU I5-8400 蓝天 CLEVO N95TP6模具
+# 炫龙KP2 神舟ZX7-CP5S2 K690E 黑苹果EFI CPU I5-8400 蓝天 CLEVO N95TP6 N95KP6模具
 
 ## 相关申明
 
 - 博客地址: https://www.wutong.tk/
 - 长期更新: https://www.wutong.tk/index.php/hackintosh/2.html
-- 本EFI为OC引导支持 `炫龙KP2` `神舟ZX7-CP5S2` `神舟K690E`  等采用  `蓝天 CLEVO N95TP6` 模具的机型
+- 本EFI为OC引导支持 `炫龙KP2` `神舟ZX7-CP5S2` `神舟K690E`  等采用  `蓝天 CLEVO N95xx` 模具的机型
 - 希望本EFI能够给大家带来便利，问题讨论点击加入[**<u>QQ交流群：1046199095</u>**](https://jq.qq.com/?_wv=1027&k=5hGmbfx)
 
 ## 博主配置
@@ -46,6 +46,7 @@
 
 ## 使用方法
 
+- 进行 `BIOS` 设置 [相关教程](https://www.wutong.tk/index.php/hackintosh/3.html)
 - 屏幕为1080P分辨率，使用默认`config.plist`
 - 屏幕为4K分辨率，请将`config_4k.plist`重命名为`config.plist`
 - `config.plist` 中 `Platformlnfo` - `Generic` 自行更换五码
